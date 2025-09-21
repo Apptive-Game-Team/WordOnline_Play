@@ -1,4 +1,4 @@
-const cacheName = "Apptive Game Team-Word Online Client-0.0.279";
+const cacheName = "Apptive Game Team-Word Online Client-0.0.280";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js",
