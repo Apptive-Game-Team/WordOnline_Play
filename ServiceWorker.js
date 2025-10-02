@@ -1,9 +1,9 @@
-const cacheName = "Apptive Game Team-Word Online Client-0.0.323";
+const cacheName = "Apptive Game Team-Word Online Client-0.0.326";
 const contentToCache = [
   "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-  "Build/5099683a2e604d65a114a48892f5bd70.framework.js",
-  "Build/1adb8d439e0d1af80184b97fd76bdc46.data",
-  "Build/84083dfd9e6a9383050b7487daa4c9b0.wasm",
+  "Build/1fe8d358cf37d9b8dd9681e9294cdd1a.framework.js",
+  "Build/fdc1aa5b93d1f8c5dfc61d3f16d48295.data",
+  "Build/5778f5f42888b359ce379582adcacf44.wasm",
   "TemplateData/style.css"
 ];
 
