@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.team6515.wordonline",
-        "sha256_cert_fingerprints": ["C9:DB:0E:19:68:B6:DD:E6:72:E3:B5:54:23:07:4B:F0:48:3D:62:86:E5:90:80:CD:75:E7:47:85:8B:18:DA:90"]
+        "sha256_cert_fingerprints": ["A8:55:3B:D7:C1:C6:74:CB:D2:29:ED:69:D9:AD:8E:E6:80:CD:B2:1A:E1:78:1F:0E:D4:1D:0D:9C:E2:FE:EB:99"]
       }
-    }]
+}]
