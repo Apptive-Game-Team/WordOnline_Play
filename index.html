@@ -85,13 +85,13 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js";
       var config = {
-        dataUrl: buildUrl + "/90c671fa690a9b81123545bee66213a8.data",
+        dataUrl: buildUrl + "/93aa065114b811c11f7f91fb48ce806a.data",
         frameworkUrl: buildUrl + "/9ebfdbd7443e3aebca37fcc6296ca36a.framework.js",
         codeUrl: buildUrl + "/c3a544f9393d354822c73fc2555ce0d9.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Team 6515",
         productName: "Word Online Client",
-        productVersion: "0.0.355",
+        productVersion: "0.0.356",
         showBanner: unityShowBanner,
       };
 
@@ -152,5 +152,9 @@
         window.addEventListener("orientationchange", resizeCanvas);
         resizeCanvas();
     </script>
+    <script>
+        window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
   </body>
 </html>
