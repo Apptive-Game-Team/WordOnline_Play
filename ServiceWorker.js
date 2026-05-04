@@ -1,9 +1,9 @@
 const cacheName = "Team 6515-Word Online Client-0.0.1";
 const contentToCache = [
   "Build/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
-  "Build/35dc867bed609eef3708ae1b6d923dde.framework.js",
-  "Build/f58f5c2327d4c74bd75e79687d0e507b.data",
-  "Build/9bc67790a68b74eb1bac0f761c81b3e6.wasm",
+  "Build/8aabfddc1d8a407be596e48217089b71.framework.js",
+  "Build/73ea24bafe3aead3c59c8a4b2389f9f7.data",
+  "Build/93f29e55e0a8c26913abaab5b4643467.wasm",
   "TemplateData/style.css"
 ];
 
