@@ -1,0 +1,15 @@
+{
+    "name": "Word Online Client",
+    "short_name": "Word Online Client",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#000000",
+    "theme_color": "#000",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/wordventure-logo-flat.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
